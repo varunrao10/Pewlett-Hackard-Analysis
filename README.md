@@ -4,7 +4,7 @@
 **File:** [Employee_Database_Challenge ](Queries/Employee_Database_challenge.sql)
 
 ## Overview of Pewlett-Hackard-Analysis:
-The purpose of this analysis is to ensure that there are enough people to replace the number of people who are retiring and to also ensure to have enough eligible people avaiable to mentor the remaining employees.
+The purpose of this analysis is to ensure that there are enough people to replace the number of people who are retiring and to also ensure we have enough eligible people avaiable to mentor the remaining employees.
 
 ## Results:
 - Counting the number of employees who are retiring by title
